@@ -3,3 +3,4 @@ int main(){
     printf("Hello, world!");
     return  0;
 }
+// we have to make snake game
